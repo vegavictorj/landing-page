@@ -99,6 +99,10 @@ button {
     color: #1f2937;
 }
 
+.information-items {
+    display: flex;
+}
+
 .item-image {
     border: solid 2px #3882f6;
     width: 100px;
