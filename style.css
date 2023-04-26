@@ -157,3 +157,30 @@ a,
     font-weight: 500;
     margin-right: 35px;
 }
+
+/* SECTION-4 */
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.invitation {
+    background-color: #3882f6;
+    padding: 80px 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 10px;
+}
+
+.invitation-title {
+    color: white;
+}
+
+.invitation-text {
+    color: white;
+}
