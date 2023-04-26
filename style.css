@@ -92,3 +92,9 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.information {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
