@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 100px;
-    padding: 10px 100px 50px;
+    padding: 20px 200px 150px;
     background-color: #1f2937;
 }
 
@@ -44,4 +44,10 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.description-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
 }
