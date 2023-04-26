@@ -64,13 +64,14 @@ a,
     font-size: 18px;
 }
 
-button {
+.description-button {
     border: none;
     border-radius: 10px;
     background-color: #3882f6;
     color: white;
     padding: 5px 30px;
-
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
 }
 
 .image {
