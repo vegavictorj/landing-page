@@ -36,8 +36,6 @@ ul {
 
 a {
     text-decoration: none;
-    color: #e5e7eb;
-    font-size: 18px;
 }
 
 .presentation {
@@ -50,4 +48,10 @@ a {
     color: #f9faf8;
     font-size: 48px;
     font-weight: 900;
+}
+
+a,
+.description-text {
+    color: #e5e7eb;
+    font-size: 18px;
 }
