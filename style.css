@@ -7,6 +7,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* SECTION-1 */
+
 .section-1 {
     display: flex;
     flex-direction: column;
@@ -78,6 +80,15 @@ button {
     width: 600px;
     height: 300px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* SECTION-2 */
+
+.section-2 {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
