@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .section-1 {
     display: flex;
     flex-direction: column;
     gap: 100px;
+    padding: 10px 100px 50px;
 }
 
 .header {
