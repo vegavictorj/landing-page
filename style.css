@@ -3,7 +3,6 @@
 body {
     height: 100vh;
     margin: 0;
-    overflow: hidden;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -13,7 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 150px;
-    padding: 20px 200px 150px;
+    padding: 20px 200px 200px;
     background-color: #1f2937;
 }
 
@@ -92,6 +91,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 70px;
+    padding-bottom: 150px;
 }
 
 .information {
@@ -124,4 +124,31 @@ button {
     width: 170px;
     color: rgb(130, 130, 130);
     font-size: 18px;
+}
+
+/* SECTION-3 */
+
+.section-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container {
+    width: 790px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    align-self: center;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-author {
+    align-self: flex-end;
 }
