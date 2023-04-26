@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,300&display=swap');
 
 body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -9,6 +12,7 @@ body {
     flex-direction: column;
     gap: 100px;
     padding: 10px 100px 50px;
+    background-color: #1f2937;
 }
 
 .header {
