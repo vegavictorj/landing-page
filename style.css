@@ -179,8 +179,10 @@ a,
 
 .invitation-title {
     color: white;
+    font-size: 26px;
+    font-weight: 500;
 }
 
 .invitation-text {
-    color: white;
+    color: #e5e7eb;
 }
