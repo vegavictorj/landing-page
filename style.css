@@ -169,11 +169,11 @@ a,
 
 .invitation {
     background-color: #3882f6;
-    padding: 80px 400px;
+    padding: 60px 150px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 400px;
     border-radius: 10px;
 }
 
@@ -185,4 +185,14 @@ a,
 
 .invitation-text {
     color: #e5e7eb;
+}
+
+.invitation-button {
+    border: solid 2px white;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 5px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
 }
